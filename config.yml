@@ -1,0 +1,6 @@
+---
+# You'll need to disable 2FA for this script to auth correctly
+client_id: ""
+client_secret: ""
+username: ""
+message: "Comment deleted in protest of Reddit API changes."
